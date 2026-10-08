@@ -1,0 +1,33 @@
+month,year,volume_mn,value_cr,data_source,is_synthetic,month_num,period,avg_ticket_size_inr
+Jan,2023,8036,1298230,NPCI product statistics (annual confirmed by PIB),False,1,2023-01-01,1615.52
+Feb,2023,7530,1189340,NPCI product statistics (annual confirmed by PIB),False,2,2023-02-01,1579.47
+Mar,2023,8675,1398780,NPCI product statistics (annual confirmed by PIB),False,3,2023-03-01,1612.43
+Apr,2023,8875,1398420,NPCI product statistics (annual confirmed by PIB),False,4,2023-04-01,1575.68
+May,2023,9416,1421830,NPCI product statistics (annual confirmed by PIB),False,5,2023-05-01,1510.01
+Jun,2023,9335,1448730,NPCI product statistics (annual confirmed by PIB),False,6,2023-06-01,1551.93
+Jul,2023,9965,1506570,NPCI product statistics (annual confirmed by PIB),False,7,2023-07-01,1511.86
+Aug,2023,10575,1558340,NPCI product statistics (annual confirmed by PIB),False,8,2023-08-01,1473.61
+Sep,2023,10560,1547820,NPCI product statistics (annual confirmed by PIB),False,9,2023-09-01,1465.74
+Oct,2023,11415,1658170,NPCI product statistics (annual confirmed by PIB),False,10,2023-10-01,1452.62
+Nov,2023,11240,1667430,NPCI product statistics (annual confirmed by PIB),False,11,2023-11-01,1483.48
+Dec,2023,12020,1822180,NPCI product statistics (annual confirmed by PIB),False,12,2023-12-01,1515.96
+Jan,2024,12203,1841000,NPCI product statistics (annual confirmed by PIB),False,1,2024-01-01,1508.65
+Feb,2024,12102,1828000,NPCI product statistics (annual confirmed by PIB),False,2,2024-02-01,1510.49
+Mar,2024,13440,1978000,NPCI product statistics (annual confirmed by PIB),False,3,2024-03-01,1471.73
+Apr,2024,13300,1964000,NPCI product statistics (annual confirmed by PIB),False,4,2024-04-01,1476.69
+May,2024,14040,2044000,NPCI product statistics (annual confirmed by PIB),False,5,2024-05-01,1455.84
+Jun,2024,13890,2007000,NPCI product statistics (annual confirmed by PIB),False,6,2024-06-01,1444.92
+Jul,2024,14410,2064000,NPCI product statistics (annual confirmed by PIB),False,7,2024-07-01,1432.34
+Aug,2024,14960,2061000,NPCI product statistics (annual confirmed by PIB),False,8,2024-08-01,1377.67
+Sep,2024,15000,2060000,NPCI product statistics (annual confirmed by PIB),False,9,2024-09-01,1373.33
+Oct,2024,16000,2350000,NPCI product statistics (annual confirmed by PIB),False,10,2024-10-01,1468.75
+Nov,2024,15500,2155000,NPCI product statistics (annual confirmed by PIB),False,11,2024-11-01,1390.32
+Dec,2024,16730,2325000,NPCI product statistics (PIB PRID confirmed - Dec 2024 milestone),False,12,2024-12-01,1389.72
+Jan,2025,16996,2348037,NPCI product statistics (confirmed via PIB/grounded search),False,1,2025-01-01,1381.52
+Feb,2025,16106,2196482,NPCI product statistics (confirmed via PIB/grounded search),False,2,2025-02-01,1363.77
+Mar,2025,18302,2477222,NPCI product statistics (confirmed via PIB/grounded search),False,3,2025-03-01,1353.53
+Apr,2025,17893,2394926,NPCI product statistics (confirmed via PIB/grounded search),False,4,2025-04-01,1338.47
+May,2025,18677,2514297,NPCI product statistics (confirmed via PIB/grounded search),False,5,2025-05-01,1346.2
+Jun,2025,18395,2403931,NPCI product statistics (confirmed via PIB/grounded search),False,6,2025-06-01,1306.84
+Jul,2025,19468,2508498,NPCI product statistics (confirmed via PIB/grounded search),False,7,2025-07-01,1288.52
+Aug,2025,20008,2485473,NPCI product statistics (confirmed via PIB/grounded search),False,8,2025-08-01,1242.24
